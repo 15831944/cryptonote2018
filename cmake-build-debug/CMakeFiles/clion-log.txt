@@ -1,0 +1,174 @@
+"C:\Program Files\JetBrains\CLion 2018.1.6\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\anan\GitHub\lab\cryptonote2018
+-- The C compiler identification is GNU 6.3.0
+-- The CXX compiler identification is GNU 6.3.0
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: C:/MinGW/bin/g++.exe
+-- Check for working CXX compiler: C:/MinGW/bin/g++.exe -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+CMake Warning at C:/Program Files/JetBrains/CLion 2018.1.6/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:567 (message):
+  Imported targets and dependency information not available for Boost version
+  (all versions older than 1.33)
+Call Stack (most recent call first):
+  C:/Program Files/JetBrains/CLion 2018.1.6/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:907 (_Boost_COMPONENT_DEPENDENCIES)
+  C:/Program Files/JetBrains/CLion 2018.1.6/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:1542 (_Boost_MISSING_DEPENDENCIES)
+  CMakeLists.txt:114 (find_package)
+
+
+CMake Warning at C:/Program Files/JetBrains/CLion 2018.1.6/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:567 (message):
+  Imported targets and dependency information not available for Boost version
+  (all versions older than 1.33)
+Call Stack (most recent call first):
+  C:/Program Files/JetBrains/CLion 2018.1.6/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:907 (_Boost_COMPONENT_DEPENDENCIES)
+  C:/Program Files/JetBrains/CLion 2018.1.6/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:1542 (_Boost_MISSING_DEPENDENCIES)
+  CMakeLists.txt:114 (find_package)
+
+
+CMake Warning at C:/Program Files/JetBrains/CLion 2018.1.6/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:567 (message):
+  Imported targets and dependency information not available for Boost version
+  (all versions older than 1.33)
+Call Stack (most recent call first):
+  C:/Program Files/JetBrains/CLion 2018.1.6/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:907 (_Boost_COMPONENT_DEPENDENCIES)
+  C:/Program Files/JetBrains/CLion 2018.1.6/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:1542 (_Boost_MISSING_DEPENDENCIES)
+  CMakeLists.txt:114 (find_package)
+
+
+CMake Warning at C:/Program Files/JetBrains/CLion 2018.1.6/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:567 (message):
+  Imported targets and dependency information not available for Boost version
+  (all versions older than 1.33)
+Call Stack (most recent call first):
+  C:/Program Files/JetBrains/CLion 2018.1.6/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:907 (_Boost_COMPONENT_DEPENDENCIES)
+  C:/Program Files/JetBrains/CLion 2018.1.6/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:1542 (_Boost_MISSING_DEPENDENCIES)
+  CMakeLists.txt:114 (find_package)
+
+
+CMake Warning at C:/Program Files/JetBrains/CLion 2018.1.6/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:567 (message):
+  Imported targets and dependency information not available for Boost version
+  (all versions older than 1.33)
+Call Stack (most recent call first):
+  C:/Program Files/JetBrains/CLion 2018.1.6/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:907 (_Boost_COMPONENT_DEPENDENCIES)
+  C:/Program Files/JetBrains/CLion 2018.1.6/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:1542 (_Boost_MISSING_DEPENDENCIES)
+  CMakeLists.txt:114 (find_package)
+
+
+CMake Warning at C:/Program Files/JetBrains/CLion 2018.1.6/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:567 (message):
+  Imported targets and dependency information not available for Boost version
+  (all versions older than 1.33)
+Call Stack (most recent call first):
+  C:/Program Files/JetBrains/CLion 2018.1.6/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:907 (_Boost_COMPONENT_DEPENDENCIES)
+  C:/Program Files/JetBrains/CLion 2018.1.6/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:1542 (_Boost_MISSING_DEPENDENCIES)
+  CMakeLists.txt:114 (find_package)
+
+
+CMake Warning at C:/Program Files/JetBrains/CLion 2018.1.6/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:567 (message):
+  Imported targets and dependency information not available for Boost version
+  (all versions older than 1.33)
+Call Stack (most recent call first):
+  C:/Program Files/JetBrains/CLion 2018.1.6/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:907 (_Boost_COMPONENT_DEPENDENCIES)
+  C:/Program Files/JetBrains/CLion 2018.1.6/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:1542 (_Boost_MISSING_DEPENDENCIES)
+  CMakeLists.txt:114 (find_package)
+
+
+CMake Warning at C:/Program Files/JetBrains/CLion 2018.1.6/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:567 (message):
+  Imported targets and dependency information not available for Boost version
+  (all versions older than 1.33)
+Call Stack (most recent call first):
+  C:/Program Files/JetBrains/CLion 2018.1.6/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:907 (_Boost_COMPONENT_DEPENDENCIES)
+  C:/Program Files/JetBrains/CLion 2018.1.6/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:1542 (_Boost_MISSING_DEPENDENCIES)
+  CMakeLists.txt:114 (find_package)
+
+
+-- Looking for pthread.h
+-- Looking for pthread.h - not found
+-- Found Threads: TRUE  
+CMake Error at C:/Program Files/JetBrains/CLion 2018.1.6/bin/cmake/share/cmake-3.10/Modules/FindBoost.cmake:1928 (message):
+  Unable to find the requested Boost libraries.
+
+  Unable to find the Boost header files.  Please set BOOST_ROOT to the root
+  directory containing Boost or BOOST_INCLUDEDIR to the directory containing
+  Boost's headers.
+Call Stack (most recent call first):
+  CMakeLists.txt:114 (find_package)
+
+
+-- Found Git: C:/Program Files/Git/cmd/git.exe
+-- Found PythonInterp: C:/Users/anan/.windows-build-tools/python27/python.exe (found version "2.7.14") 
+CMake Warning in CMakeLists.txt:
+  CMAKE_SKIP_INSTALL_RULES was enabled even though installation rules have
+  been specified
+
+
+CMake Error: The following variables are used in this project, but they are set to NOTFOUND.
+Please set them or make sure they are set and tested correctly in the CMake files:
+Boost_INCLUDE_DIR (ADVANCED)
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/external
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/external
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/external
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/external
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/external/miniupnpc
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/external/miniupnpc
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/external/miniupnpc
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/external/miniupnpc
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/external/gtest
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/external/gtest
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/external/gtest
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/external/gtest
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/external/gtest
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/src
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/src
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/src
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/src
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/src
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/src
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/src
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/src
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/src
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/src
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/src
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/src
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/src
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/src
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/src
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/src
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/src
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/src
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/src
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/src
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/src
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/src
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/src
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/src
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/tests
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/tests
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/tests
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/tests
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/tests
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/tests
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/tests
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/tests
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/tests
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/tests
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/tests
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/tests
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/tests
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/tests
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/tests
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/tests
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/tests
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/tests
+   used as include directory in directory C:/Users/anan/GitHub/lab/cryptonote2018/tests
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/anan/GitHub/lab/cryptonote2018/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "C:/Users/anan/GitHub/lab/cryptonote2018/cmake-build-debug/CMakeFiles/CMakeError.log".
